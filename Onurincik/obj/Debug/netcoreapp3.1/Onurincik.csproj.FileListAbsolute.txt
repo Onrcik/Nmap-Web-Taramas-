@@ -1,0 +1,11 @@
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\bin\Debug\netcoreapp3.1\Onurincik.exe
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\bin\Debug\netcoreapp3.1\Onurincik.deps.json
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\bin\Debug\netcoreapp3.1\Onurincik.runtimeconfig.json
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\bin\Debug\netcoreapp3.1\Onurincik.runtimeconfig.dev.json
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\bin\Debug\netcoreapp3.1\Onurincik.dll
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\bin\Debug\netcoreapp3.1\Onurincik.pdb
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\obj\Debug\netcoreapp3.1\Onurincik.csprojAssemblyReference.cache
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\obj\Debug\netcoreapp3.1\Onurincik.AssemblyInfoInputs.cache
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\obj\Debug\netcoreapp3.1\Onurincik.AssemblyInfo.cs
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\obj\Debug\netcoreapp3.1\Onurincik.dll
+C:\Users\CANBERK\source\repos\Onurincik\Onurincik\obj\Debug\netcoreapp3.1\Onurincik.pdb
